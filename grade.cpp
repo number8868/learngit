@@ -12,5 +12,6 @@ int main() {
     else if (a == 'D') cout << "失败与你只是一步之遥，莫一失足成千古恨" << endl;
     else if (a == 'E') cout << "一次失败代表不了什么，请从头再来" << endl;
 
+    cout<<"is easy to create a new branch"; 
     return 0;
 }
